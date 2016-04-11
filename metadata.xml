@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://apidocs.kajona.de/xsd/package.xsd"
+        >
+    <title>v4template</title>
+    <description>This template contains the default layout from Kajona V4. Kept for the old memories.</description>
+    <version>5.0</version>
+    <author>Kajona Team</author>
+    <type>TEMPLATE</type>
+    <providesInstaller>FALSE</providesInstaller>
+    <requiredModules />
+</package>
