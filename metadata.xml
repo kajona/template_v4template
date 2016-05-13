@@ -10,4 +10,8 @@
     <type>TEMPLATE</type>
     <providesInstaller>FALSE</providesInstaller>
     <requiredModules />
+    <screenshots>
+        <screenshot path="screenshots/1.png" />
+        <screenshot path="screenshots/2.png" />
+    </screenshots>
 </package>
